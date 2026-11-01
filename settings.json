@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "RAHMANBRO.aternos.me",
-    "port": 41545,
+    "port":41545,
     "version": "1.21.11",
     "try-creative": false
   },
